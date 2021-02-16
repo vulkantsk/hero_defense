@@ -1,0 +1,20 @@
+//
+// <key>	<value>
+// Hero		currently on/off, will be # of instances (-1 = infinite)
+//
+
+"CustomHeroList"
+{
+	"npc_dota_hero_alchemist"			"1"			//Roshan Son
+	"npc_dota_hero_axe"			"1"			//Roshan Son
+	"npc_dota_hero_sven"			"1"			//Roshan Son
+
+	"npc_dota_hero_naga_siren"			"1"			//Roshan Son
+	"npc_dota_hero_viper"			"1"			//Roshan Son
+	"npc_dota_hero_medusa"			"1"			//Roshan Son
+
+	"npc_dota_hero_pugna"			"1"			//Roshan Son
+	"npc_dota_hero_furion"			"1"			//Roshan Son
+	"npc_dota_hero_chen"			"1"			//Roshan Son
+
+}

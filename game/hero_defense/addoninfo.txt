@@ -1,0 +1,6 @@
+"AddonInfo"
+{
+	"maps"			"hero_defense"
+	"IsPlayable"	"1"
+	"MaxPlayers"	"5"
+}
