@@ -16,8 +16,10 @@ ItemDrop.secret_items = {
 --	["point_name"] = "item_name",
 	["item_spawner_1"] = "item_power_treads",
 	["item_spawner_2"] = "item_rapier",
+	["item_spawner_3"] = "item_fluffy_hat",
+	["item_spawner_4"] = "item_ultimate_orb",
+	["item_spawner_5"] = "item_flask",
 	["item_spawner_123"] = "item_rapier",
-
 }
 function ItemDrop:InitGameMode()
 	ListenToGameEvent('entity_killed', Dynamic_Wrap(self, 'OnEntityKilled'), self)
